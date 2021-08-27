@@ -1,4 +1,5 @@
 # Path Visualizer
+![Path Visualizer Logo](logo.jpg)
 
 Path Visualizer is a pygame based GUI application that allows users to draw mazes, i.e. mark cells as free or blocked, and run BFS or DFS on them to find paths between a start & end cell.
 
@@ -10,6 +11,8 @@ To get started:
 1. Start the application by running ``` python main.py ```
 
 ## Usage
+
+![Path Visualizer Screenshot](screenshot.jpg)
 
 The application is based off a 10x10 grid where each cell can be marked by pressing the associated key once and mouse clicking as many cells as needed.
 
